@@ -127,3 +127,4 @@ def check_if_request_from_slack(event):
 # from your slack credentials.
 
 # ensure that your IAM function is has IAMReadOnlyAccess enabled as a policy along with the regular Lambda IAM function already created.
+#
